@@ -1,0 +1,60 @@
+body{
+	display: grid;
+	grid-template-columns: 1fr 60% 1fr;
+	background-image: url("https://c4.wallpaperflare.com/wallpaper/458/277/191/eminem-screensavers-and-backgrounds-wallpaper-preview.jpg");
+	background-color: #363538;
+	color: #F6F6F6;
+
+}
+#title{
+	text-align: center;
+	letter-spacing: 2rem;
+}
+#img-div{
+	background-color: #8D8C8A;
+	width: 100%;
+	box-shadow: 1px 1px 10px black;
+}
+#img-caption{
+	text-align: center;
+	color: #F6F6F6;
+	padding: 0 0 3% 0;
+	word-spacing: 2rem;
+	font-size: 15px;
+}
+h3{
+	text-align: center;
+}
+#image{
+	width: 100%;
+}
+#tribute-info{
+	width: 100%;
+
+}
+#quote{
+	border: solid #408697 1px;
+	border-radius: 5px;
+	width: 100%;
+}
+#quote > p{
+	padding: 0 2% 0 2%;
+}
+.title{
+	text-align: unset;
+}
+.qgrid{
+	display: grid;
+	grid-template-columns: 20% 60% 20%;
+}
+#tribute-link{
+	text-decoration: none;
+	color: #408697;
+}
+b,i {
+	color: #408697;
+}
+/*.empty{
+	background-color: #8D8C8A;
+}*/
+/* #52D6F4 */
